@@ -14,6 +14,9 @@ public class Main2 {
 		x4 = scanner.nextDouble();
 		y4 = scanner.nextDouble();
 
+		////////////////////////////
+		////////////////////////////
+
 		double k1 = (y2 - y1) / (x2 - x1);
 		double k2 = (y4 - y3) / (x4 - x3);
 
