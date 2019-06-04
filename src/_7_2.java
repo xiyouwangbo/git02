@@ -18,7 +18,9 @@ public class _7_2 {
 			m=13;
 			year--;
 		}else if(month==2){
-			m=14;
+
+			//adsfasdfadsfasdfasdf
+			m=15;
 			year--;
 		}else
 			m=month;
